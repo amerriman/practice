@@ -43,7 +43,6 @@ module.exports = {
       landscape += '___';
     }
     return landscape;
-
   }
 
 }
